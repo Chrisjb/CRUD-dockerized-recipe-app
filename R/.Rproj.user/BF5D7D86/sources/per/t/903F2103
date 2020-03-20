@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584568632679.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3928978505",
+    "id" : "903F2103",
+    "lastKnownWriteTime" : 1584612304,
+    "last_content_update" : 1584612304591,
+    "path" : "~/Desktop/recipes/R/recipe_db_commands.R",
+    "project_path" : "recipe_db_commands.R",
+    "properties" : {
+        "cursorPosition" : "38,0",
+        "scrollLine" : "18"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
